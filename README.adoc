@@ -1,1 +1,5 @@
-# java14-examples
+# Java 14 Examples
+
+This repository holds examples for features introduced in Java 14.
+
+. JEP305 - Pattern Matching for instanceOf
